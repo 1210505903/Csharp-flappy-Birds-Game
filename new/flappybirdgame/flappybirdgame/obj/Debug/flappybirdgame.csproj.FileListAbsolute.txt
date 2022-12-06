@@ -1,2 +1,10 @@
 f:\onedrive\belgeler\visual studio 2015\Projects\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.exe.config
 F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.Form1.resources
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.Properties.Resources.resources
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.csproj.GenerateResource.Cache
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\obj\Debug\flappybirdgame.pdb
