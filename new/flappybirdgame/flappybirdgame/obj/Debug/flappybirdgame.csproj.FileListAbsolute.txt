@@ -1,1 +1,2 @@
 f:\onedrive\belgeler\visual studio 2015\Projects\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-flappy-Birds-Game\new\flappybirdgame\flappybirdgame\bin\Debug\flappybirdgame.exe.config
